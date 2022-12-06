@@ -1,9 +1,17 @@
-h1 {
-  color: #0000FF
+h1.cl {
+  color: hsla(0, 30%, 28%, 0.3)
 }
 .cl{
-  color: green
+  color: rgba(255, 255, 0 , 0.5)
 }
 body{
-  color:red
+  color: #00000033
+}
+div{
+  height:100px;
+  width:100%;
+  margin:3em;
+  padding:2em;
+  border: 3px solid black;
+  background-color: red;
 }
